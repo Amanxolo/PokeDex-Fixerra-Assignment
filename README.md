@@ -1,3 +1,23 @@
+![Screenshot 2024-10-20 203733](https://github.com/user-attachments/assets/b140f53b-6c94-4d64-b5cc-ed81de5e162f)
+
+![Screenshot 2024-10-20 203758](https://github.com/user-attachments/assets/a11d14a8-d542-4a6f-9e64-62a7b59d12a6)
+
+![Screenshot 2024-10-20 203841](https://github.com/user-attachments/assets/c55672d1-983d-463f-b717-1e1d044a004b)
+
+# /favorites route to see all your favorites pokemon list
+![Screenshot 2024-10-20 203914](https://github.com/user-attachments/assets/06ccf86d-dbde-4b33-9e14-66d4f4550380)
+
+# /comapre route to compare the stats of two selected pokemon
+![Screenshot 2024-10-20 203938](https://github.com/user-attachments/assets/602a21cc-b817-452d-8e62-cafac678e7bd)
+
+![Screenshot 2024-10-20 204001](https://github.com/user-attachments/assets/bf75b9e1-d42d-40eb-be31-c51a0ee93055)
+
+
+# Command to run the project
+--cd pokemon-app
+--npm start
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
